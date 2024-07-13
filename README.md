@@ -101,19 +101,3 @@ To contribute to the Retro repository using GitHub Desktop, follow these steps:
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Axe.png" width="20" height="20" >Submitting a fix<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="20" height="20" >Proposing new features
 
-<div align="center">
-  <h2 style="font-size:3rem;">Our Contributors <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /></h2>
-  <h3>Thank you for contributing to our repository</h3>
-
-<a href="https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-/graphs/contributors">
-<img src="https://contributors-img.web.app/image?repo=Anjaliavv51/Retro"/>
-
-  </a>
-
-<p style="font-family:var(--ff-philosopher);font-size:3rem;"><b> Show some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /> by starring this awesome repository!
-
-</div>
-<center>
-<h3 style="font-size:2rem;">
-If you find this project helpful, please consider giving it a star! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Star.png" width="30" height="30"></p>
-</center>
