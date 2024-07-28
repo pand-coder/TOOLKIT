@@ -9,27 +9,10 @@ Toolkit is a versatile web application that provides a collection of useful tool
 <i><p>Web Application collection of all types of tools</p></i>
 
 </div>
+| ![Stars](https://img.shields.io/github/stars/pand-coder/TOOLKIT?style=social) | ![Forks](https://img.shields.io/github/forks/pand-coder/TOOLKIT?style=social) | ![Issues](https://img.shields.io/github/issues/pand-coder/TOOLKIT) | ![Open PRs](https://img.shields.io/github/issues-pr/pand-coder/TOOLKIT) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/pand-coder/TOOLKIT) |
+|---|---|---|---|---|
+| Stars | Forks | Issues | Open PRs | Closed PRs |
 
-<table align="center">
-    <thead align="center">
-        <tr border: 1px;>
-            <td><b><img src="https://github.com/pand-coder/TOOLKIT" width="20" height="20"> Stars</b></td>
-            <td><b>🍴 Forks</b></td>
-            <td><b><img src="https://github.com/pand-coder/TOOLKIT" width="20" height="20"> Issues</b></td>
-            <td><b><img src="https://github.com/pand-coder/TOOLKIT" width="20" height="20"> Open PRs</b></td>
-            <td><b><img src="https://github.com/pand-coder/TOOLKIT" width="20" height="20"> Closed PRs</b></td>
-        </tr>
-     </thead>
-    <tbody>
-         <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Anjaliavv51/Retro?style=flat&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/Anjaliavv51/Retro?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Anjaliavv51/Retro?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Anjaliavv51/Retro?style=flat&logo=github"/></td>
-           <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Anjaliavv51/Retro?style=flat&color=critical&logo=github"/></td>
-        </tr>
-    </tbody>
-</table>
 </div>
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />Featured In</h3>
 
